@@ -11,3 +11,8 @@ How to start:
   Make a shortcut of file "alien_invasion" at any desired location.
   Run the shortcut created.
   
+How to play:
+  Action:
+    Fire -> Space Bar
+    Move -> Left & Right Arrow key
+    Quit -> key q
